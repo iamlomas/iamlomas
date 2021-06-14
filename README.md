@@ -1,6 +1,6 @@
 # Hi there! I'm Lomas
 
-<p align="center"> <img src="https://raw.githubusercontent.com/iamlomas/iamlomas/main/iamlomasheader.png?token=AOMEV6E6SPR4ZZJD4JQSE2LAY43RC" alt="iamlomas" height="350px"/></p>
+<p align="center"> <img src="https://raw.githubusercontent.com/iamlomas/iamlomas/main/iamlomasheader.png?token=AOMEV6E6SPR4ZZJD4JQSE2LAY43RC" alt="iamlomas" height="300px"/></p>
 
 
 #### **I'm a self-taught android developer and UX designer based in India.**
