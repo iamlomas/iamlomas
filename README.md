@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi there! I'm Lomas
+
+
+
+#### **I'm a self-taught android developer and UX designer based in India.**
+
+- Proficient in: Kotlin and Java
+
 
 <!--
 **iamlomas/iamlomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
