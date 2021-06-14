@@ -5,23 +5,20 @@
 ### **I'm a self-taught android developer and UX designer based in India.**
 
 - Proficient in: Kotlin and Java
+- Passionate about effective UX designing for traffic generation and user retension in app
 
 #### Connect with me:
 
-<a href="thisislomas@gmail.com"> Gmail </a>
+Email: thisislomas@gmail.com
 
-<a href="https://www.instagram.com/i.am.lomas/"> Instagram</a>
+[![Instagram](https://img.shields.io/badge/-Instagram-white?logo=instagram&style=plastic)](https://www.instagram.com/i.am.lomas/)
+[![LinkedIn URL](https://img.shields.io/badge/-LinkedIn-white?logo=linkedin&style=plastic&logoColor=blue)](https://www.linkedin.com/in/iamlomas/)
 
-<a href="https://www.linkedin.com/in/iamlomas/"> LinkedIn</a>
+[![Twitter handle](https://img.shields.io/badge/-Twitter-white?logo=twitter&style=plastic)](https://twitter.com/thisislomas)
+[![Medium](https://img.shields.io/badge/-Medium-white?logo=medium&labelColor=black&style=plastic)](https://medium.com/@iamlomas)
 
-<a href="https://twitter.com/thisislomas"> Twitter</a>
-
-<a href="https://medium.com/@iamlomas"> Medium</a>
-
-<a href="https://www.facebook.com/thisislomas/"> Facebook</a>
-
-<a href="https://www.facebook.com/itslomas"> Facebook page</a>
-
+[![Facebook id](https://img.shields.io/badge/-Facebook-white?logo=facebook&style=plastic)](https://www.facebook.com/thisislomas/)
+[![Facebook page](https://img.shields.io/badge/-Facebook%20page-white?logo=facebook&style=plastic)](https://www.facebook.com/itslomas)
 
 
 <!--
