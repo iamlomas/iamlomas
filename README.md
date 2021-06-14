@@ -7,6 +7,23 @@
 
 - Proficient in: Kotlin and Java
 
+#### Connect with me:
+
+<a href="thisislomas@gmail.com"> Gmail </a>
+
+<a href="https://www.instagram.com/i.am.lomas/"> Instagram</a>
+
+<a href="https://www.linkedin.com/in/iamlomas/"> LinkedIn</a>
+
+<a href="https://twitter.com/thisislomas"> Twitter</a>
+
+<a href="https://medium.com/@iamlomas"> Medium</a>
+
+<a href="https://www.facebook.com/thisislomas/"> Facebook</a>
+
+<a href="https://www.facebook.com/itslomas"> Facebook page</a>
+
+
 
 <!--
 **iamlomas/iamlomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
