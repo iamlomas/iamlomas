@@ -5,9 +5,15 @@
 ### **I'm a self-taught android developer and UX designer based in India.**
 
 - Proficient in: Kotlin and Java
+- Enjoys working with Kotlin projects
 - Passionate about effective UX designing for traffic generation and user retension in app
 
-#### Connect with me:
+### Tech Stats:
+![Github stats](https://github-readme-stats.vercel.app/api?username=iamlomas&&show_icons=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
+
+![Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=iamlomas&layout=compact%22%20alt=%22iamlomas)
+
+### You can reach me on:
 
 Email: thisislomas@gmail.com
 
