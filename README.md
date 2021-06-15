@@ -13,7 +13,7 @@
 
 ![Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=iamlomas&layout=compact%22%20alt=%22iamlomas)
 
-### You can reach me on:
+### You can reach me via:
 
 Email: thisislomas@gmail.com
 
