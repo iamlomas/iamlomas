@@ -9,7 +9,7 @@
 - Passionate about effective UX designing for traffic generation and user retension in app
 
 ### Tech Stats:
-![Github stats](https://github-readme-stats.vercel.app/api?username=iamlomas&&show_icons=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
+![Github stats](https://github-readme-stats.vercel.app/api?username=iamlomas&&show_icons=true&title_color=40FCFD&icon_color=43E1FD&text_color=ffffff&bg_color=101A5D)
 
 ![Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=iamlomas&layout=compact%22%20alt=%22iamlomas)
 
