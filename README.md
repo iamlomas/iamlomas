@@ -26,6 +26,10 @@ Email: thisislomas@gmail.com
 [![Facebook id](https://img.shields.io/badge/-Facebook-white?logo=facebook&style=plastic)](https://www.facebook.com/thisislomas/)
 [![Facebook page](https://img.shields.io/badge/-Facebook%20page-white?logo=facebook&style=plastic)](https://www.facebook.com/itslomas)
 
+### Apps published:
+
+[![PlayStore developer page](https://img.shields.io/badge/-Google%20PlayStore-black?logo=googleplay)](https://play.google.com/store/apps/dev?id=8688540133326277409)
+
 
 <!--
 **iamlomas/iamlomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
