@@ -8,11 +8,6 @@
 - Enjoys working with Kotlin projects
 - Passionate about effective UX designing for traffic generation and user retension in app
 
-### Tech Stats:
-![Github stats](https://github-readme-stats.vercel.app/api?username=iamlomas&&show_icons=true&title_color=40FCFD&icon_color=43E1FD&text_color=ffffff&bg_color=101A5D)
-
-![Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=iamlomas&layout=compact%22%20alt=%22iamlomas)
-
 ### You can reach me via:
 
 Email: thisislomas@gmail.com
@@ -29,6 +24,12 @@ Email: thisislomas@gmail.com
 ### Apps published:
 
 [![PlayStore developer page](https://img.shields.io/badge/-Google%20PlayStore-black?logo=googleplay)](https://play.google.com/store/apps/dev?id=8688540133326277409)
+
+
+### Tech Stats:
+![Github stats](https://github-readme-stats.vercel.app/api?username=iamlomas&&show_icons=true&title_color=40FCFD&icon_color=43E1FD&text_color=ffffff&bg_color=101A5D)
+
+![Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=iamlomas&layout=compact%22%20alt=%22iamlomas)
 
 
 <!--
