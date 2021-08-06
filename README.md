@@ -10,7 +10,7 @@
 
 ### You can reach me via:
 
-##### Email: thisislomas@gmail.com
+#### Email: thisislomas@gmail.com
 
 [![Instagram](https://img.shields.io/badge/-Instagram-white?logo=instagram&style=plastic)](https://www.instagram.com/i.am.lomas/)
 [![LinkedIn URL](https://img.shields.io/badge/-LinkedIn-white?logo=linkedin&style=plastic&logoColor=blue)](https://www.linkedin.com/in/iamlomas/)
