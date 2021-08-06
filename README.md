@@ -16,7 +16,7 @@
 [![LinkedIn URL](https://img.shields.io/badge/-LinkedIn-white?logo=linkedin&style=plastic&logoColor=blue)](https://www.linkedin.com/in/iamlomas/)
 
 [![Twitter handle](https://img.shields.io/badge/-Twitter-white?logo=twitter&style=plastic)](https://twitter.com/thisislomas)
-[![Medium](https://img.shields.io/badge/-Medium-white?logo=medium&labelColor=black&style=plastic)](https://medium.com/@iamlomas)
+[![Medium](https://img.shields.io/badge/-Medium-white?logo=medium&labelColor=black&style=plastic)](https://iamlomas.medium.com/)
 
 [![Facebook id](https://img.shields.io/badge/-Facebook-white?logo=facebook&style=plastic)](https://www.facebook.com/thisislomas/)
 [![Facebook page](https://img.shields.io/badge/-Facebook%20page-white?logo=facebook&style=plastic)](https://www.facebook.com/lomaspage)
