@@ -2,13 +2,13 @@
 
 ![Frame 242](https://raw.githubusercontent.com/iamlomas/iamlomas/main/iamlomasheader.png)
 
-### **I'm a self-taught android developer and UX designer based in India.**
+## **I'm a self-taught android developer and UX designer based in India.**
 
-- Proficient in: Kotlin and Java
-- Enjoys working with Kotlin projects
-- Passionate about effective UX designing for traffic generation and user retension in app
+### - Proficient in: Kotlin and Java
+### - Enjoys working with Kotlin projects
+### - Passionate about effective UX designing for traffic generation and user retension in app
 
-### You can reach me via:
+## You can reach me via:
 
 Email: thisislomas@gmail.com
 
