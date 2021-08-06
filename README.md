@@ -2,15 +2,15 @@
 
 ![Frame 242](https://raw.githubusercontent.com/iamlomas/iamlomas/main/iamlomasheader.png)
 
-## **I'm a self-taught android developer and UX designer based in India.**
+### **I'm a self-taught android developer and UX designer based in India.**
 
-### - Proficient in: Kotlin and Java
-### - Enjoys working with Kotlin projects
-### - Passionate about effective UX designing for traffic generation and user retension in app
+#### - Proficient in: Kotlin and Java
+#### - Enjoys working with Kotlin projects
+#### - Passionate about effective UX designing for traffic generation and user retension in app
 
-## You can reach me via:
+### You can reach me via:
 
-Email: thisislomas@gmail.com
+##### Email: thisislomas@gmail.com
 
 [![Instagram](https://img.shields.io/badge/-Instagram-white?logo=instagram&style=plastic)](https://www.instagram.com/i.am.lomas/)
 [![LinkedIn URL](https://img.shields.io/badge/-LinkedIn-white?logo=linkedin&style=plastic&logoColor=blue)](https://www.linkedin.com/in/iamlomas/)
@@ -19,7 +19,7 @@ Email: thisislomas@gmail.com
 [![Medium](https://img.shields.io/badge/-Medium-white?logo=medium&labelColor=black&style=plastic)](https://medium.com/@iamlomas)
 
 [![Facebook id](https://img.shields.io/badge/-Facebook-white?logo=facebook&style=plastic)](https://www.facebook.com/thisislomas/)
-[![Facebook page](https://img.shields.io/badge/-Facebook%20page-white?logo=facebook&style=plastic)](https://www.facebook.com/itslomas)
+[![Facebook page](https://img.shields.io/badge/-Facebook%20page-white?logo=facebook&style=plastic)](https://www.facebook.com/lomaspage)
 
 ### Apps published:
 
