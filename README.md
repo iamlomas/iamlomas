@@ -1,7 +1,5 @@
 # Hi there! I'm Lomas
 
-![Frame 242](https://raw.githubusercontent.com/iamlomas/iamlomas/main/iamlomasheader.png)
-
 **I'm a self-taught android developer and UX designer based in India.**
 
 - Proficient in: Kotlin and Java
