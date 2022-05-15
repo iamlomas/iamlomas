@@ -4,7 +4,7 @@
 
 - Proficient in: Kotlin and Java
 - Enjoys working with Kotlin projects
-- Passionate about effective UX designing for traffic generation and user retension in app
+- Currently learning C++ and unreal
 
 ### You can reach me via:
 
