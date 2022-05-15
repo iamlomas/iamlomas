@@ -1,10 +1,10 @@
 # Hi there! I'm Lomas
 
-**I'm a self-taught android developer and UX designer based in India.**
+**I'm a self-taught developer based in India.**
 
 - Proficient in: Kotlin and Java
 - Enjoys working with Kotlin projects
-- Currently learning C++ and unreal
+- Currently learning C++ and unreal engine
 
 ### You can reach me via:
 
