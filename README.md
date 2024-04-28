@@ -17,7 +17,6 @@
 [![Medium](https://img.shields.io/badge/-Medium-white?logo=medium&labelColor=black&style=plastic)](https://iamlomas.medium.com/)
 
 [![Facebook id](https://img.shields.io/badge/-Facebook-white?logo=facebook&style=plastic)](https://www.facebook.com/thisislomas/)
-[![Facebook page](https://img.shields.io/badge/-Facebook%20page-white?logo=facebook&style=plastic)](https://www.facebook.com/lomaspage)
 
 ### Apps published:
 
