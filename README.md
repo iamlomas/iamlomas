@@ -18,10 +18,6 @@
 
 [![Facebook id](https://img.shields.io/badge/-Facebook-white?logo=facebook&style=plastic)](https://www.facebook.com/thisislomas/)
 
-### Apps published:
-
-[![PlayStore developer page](https://img.shields.io/badge/-Google%20PlayStore-black?logo=googleplay)](https://play.google.com/store/apps/dev?id=8688540133326277409)
-
 
 ### Tech Stats:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=iamlomas&&show_icons=true&title_color=40FCFD&icon_color=43E1FD&text_color=ffffff&bg_color=101A5D)
